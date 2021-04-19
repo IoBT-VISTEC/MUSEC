@@ -16,7 +16,7 @@ Each audio contains:
 * [EEG and EOG raw data](#eeg_eog_dataset)
 * [Behaviors data (Familiarity, Times, and Response Rate) and Preference labels (favoured and non_favoured)](#behaviors_labels_dataset)
 
-For using dataset, you can see the code of guidance in <mark>dataset_processing.ipynb,/mark>
+For using dataset, you can see the code of guidance in 'dataset_processing.ipynb'
 ## Dataset 
 <h3 id="eeg_eog_dataset">EEG and EOG</h3>
 <!-- <br>EEG and EOG -->
@@ -65,7 +65,7 @@ non_favoured
 * EEG: 62 channels (Columns 1-62)
 * EOG: 2 channels (Columns 63-64) -->
 
-As shown in Fig. 1, the EEG data were acquired by using 62 active electrodes and placed according to the 10-20 international system. The EEG channels were referenced and grounded using the right earlobe and the $Fpz$ electrode, respectively. The EOG signals were obtained from two electrodes positioned under and next to the outer canthus of the right eye. The impedance of both EEG and EOG electrodes were maintained below 10 k$\Omega$ during the entire experiment. The length of each files is the length of each audio with sampling rates 1200 Hz.
+As shown in Fig. 1, the EEG data were acquired by using 62 active electrodes and placed according to the 10-20 international system. The EEG channels were referenced and grounded using the right earlobe and the Fpz electrode, respectively. The EOG signals were obtained from two electrodes positioned under and next to the outer canthus of the right eye. The impedance of both EEG and EOG electrodes were maintained below 10 kohms during the entire experiment. The length of each files is the length of each audio with sampling rates 1200 Hz.
     
 <p align='center'>
 <img src="./fig/EEG_ch_location.png">

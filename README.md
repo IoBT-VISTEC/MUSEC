@@ -3,7 +3,7 @@
 # Revealing Preference in Popular music Through Familiarity and Brain Response
 ### [This work](https://doi.org/10.1109/JSEN.2021.3073040) is published in IEEE Sensors Journal 
 
-### For accessing to the dataset, please send your CV and cover letter to Dr.Theerawit Wilaiprasitporn (theerawit.w@vistec.ac.th)
+### For accessing to the dataset, please send your CV and cover letter to Dr.Theerawit Wilaiprasitporn (theerawit dot w at vistec dot ac dot th)
 
 ## Abstract
 

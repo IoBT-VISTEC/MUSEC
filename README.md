@@ -16,7 +16,7 @@ Each audio contains:
 * [EEG and EOG raw data](#eeg_eog_dataset)
 * [Behaviors data (Familiarity, Times, and Response Rate) and Preference labels (favoured and non_favoured)](#behaviors_labels_dataset)
 
-For using dataset, you can see the code of guidance in <mark>dataset_processing.ipynb
+For using dataset, you can see the code of guidance in <mark>dataset_processing.ipynb,/mark>
 ## Dataset 
 <h3 id="eeg_eog_dataset">EEG and EOG</h3>
 <!-- <br>EEG and EOG -->

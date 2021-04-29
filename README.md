@@ -106,7 +106,7 @@ For example, ‘s001_gtec_song_01_010.csv’:
 When using any part of this dataset, please cite [our paper](https://doi.org/10.1109/JSEN.2021.3073040)
 
 ```
-@ARTICLE{sangnark2021musicpreference,
+@ARTICLE{musec2021,
     author={S. {Sangnark} and P. {Autthasan} and P. {Ponglertnapakorn} and P. {Chalekarn} and 
     T. {Sudhawiyangkul} and M. {Trakulruangroj} and S. {Songsermsawad} and
     R. {Assabumrungrat} and S. {Amplod} and K. {Ounjai} and T. {Wilaiprasitporn}},

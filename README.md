@@ -17,7 +17,7 @@ Each audio contains:
 * [Behaviors data (Familiarity, Times, and Response Rate) and Preference labels (favoured and non_favoured)](#behaviors_labels_dataset)
 
 For using dataset, you can see the code of guidance in 'dataset_processing.ipynb'
-## Dataset 
+## MUSEC dataset 
 <h3 id="eeg_eog_dataset">EEG and EOG</h3>
 <!-- <br>EEG and EOG -->
 
@@ -103,7 +103,7 @@ For example, ‘s001_gtec_song_01_010.csv’:
     
     
 ## Citation
-When using any part of this dataset, please cite [our paper](https://doi.org/10.1109/JSEN.2021.3073040)
+When using any part of the MUSEC dataset, please cite [our paper](https://doi.org/10.1109/JSEN.2021.3073040)
 
 ```
 @ARTICLE{musec2021,

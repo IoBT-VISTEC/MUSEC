@@ -1,4 +1,4 @@
-# MUSEC-MusicPreference-Behaviors-EEG
+# MUSEC dataset
 
 # Revealing Preference in Popular music Through Familiarity and Brain Response
 ### [This work](https://doi.org/10.1109/JSEN.2021.3073040) is published in IEEE Sensors Journal 
